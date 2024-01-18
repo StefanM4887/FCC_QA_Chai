@@ -27,7 +27,7 @@ suite('Unit Tests', function () {
       assert.fail({ value: 'truthy' }, 'Objects are truthy, but are not boolean values');
     });
   });
-
+//test
   // -----------------------------------------------------------------------------
 
   suite('Equality', function () {
